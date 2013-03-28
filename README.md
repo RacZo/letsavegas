@@ -1,5 +1,8 @@
-Let's Save GAS is an online community (of car drivers and pedestrians) helping each other to save on gas using crowdsourcing and 
-gamification.
+Let's Save GAS is an App that runs on General Motors's latest car models App enabled Dashboard using GM Developers APIs 
+and it was first developed at AT&T Hackathon in Las Vegas, Nevada on January 2013.
+
+Let's Save GAS is an online/mobile community of car drivers, bikers and also pedestrians helping each other to save on gas
+using crowdsourcing and gamification.
 
 GAS prices are reported directly from the pump using an In-Vehicle App available on select General Motors(TM) cars  
 such as the new Chevy Volt(TM). Members of the community are rewarded with badges and their reputation grows along with the 
@@ -26,6 +29,8 @@ For GAS Station Owners:
 monthly/fee.
 
 - A report about ad views will be available.
+
+More information on GM Developers at: https://developer.gm.com/
 
 
 © Copyright 2013 Oscar Salguero - Real Action Software
